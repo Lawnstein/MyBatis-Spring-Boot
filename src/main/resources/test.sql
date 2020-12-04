@@ -1,4 +1,4 @@
-﻿USE `test`;
+﻿USE mybatis;
 
 DROP TABLE IF EXISTS `country`;
 CREATE TABLE `country` (
