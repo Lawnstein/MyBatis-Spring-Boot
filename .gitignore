@@ -13,3 +13,4 @@ target/
 # jrebel #
 src/main/resources/rebel.xml
 /.factorypath
+/logs/
